@@ -21,4 +21,3 @@ main()
     Tax=(2 * Tsal) / 100;
     cout <<"\nTax ="<<Tax;
 }
-
